@@ -1,0 +1,6 @@
+foo (x:int) {
+  (x)=4
+}
+
+//@PRACOWNIA
+//@should_not_parse

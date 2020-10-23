@@ -1,0 +1,7 @@
+test()
+{
+  x: int = 123455678900988776655443332
+}
+
+//@PRACOWNIA
+//@should_not_parse

@@ -1,0 +1,7 @@
+foo(x:int) {
+  x:int = 4
+  whilex == 0 { }
+}
+
+//@PRACOWNIA
+//@should_not_parse

@@ -1,0 +1,6 @@
+foo(b:bool) {
+  if b return;;
+}
+
+//@PRACOWNIA
+//@should_not_parse

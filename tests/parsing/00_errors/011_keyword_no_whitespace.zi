@@ -1,0 +1,8 @@
+test()
+{
+  foo: int = 7;
+  foo = foowhile true { }
+}
+
+//@PRACOWNIA
+//@should_not_parse

@@ -1,0 +1,6 @@
+main(): int[] {
+  return { 2 3 }
+}
+
+//@PRACOWNIA
+//@should_not_parse

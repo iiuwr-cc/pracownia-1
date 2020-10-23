@@ -1,0 +1,7 @@
+f()
+{
+    x = "a\ab"
+}
+
+//@PRACOWNIA
+//@should_not_parse

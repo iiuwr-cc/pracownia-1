@@ -1,0 +1,12 @@
+type myInt = int
+
+type list = { hd: int, tl: list }
+
+type tree = { left: tree, data: int, right: tree, }
+
+type pointArray = {x:int,y:int}[]
+
+type nestedRecord = {r1:{}, r2:{v:int}, a:pointArray[]}
+
+//@PRACOWNIA
+//@stop_after parser

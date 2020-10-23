@@ -1,0 +1,7 @@
+f()
+{
+    while cond return 1
+}
+
+//@PRACOWNIA
+//@stop_after parser

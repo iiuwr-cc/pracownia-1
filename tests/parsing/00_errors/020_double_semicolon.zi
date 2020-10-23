@@ -1,0 +1,5 @@
+foo() : int
+  return 4;;
+
+//@PRACOWNIA
+//@should_not_parse

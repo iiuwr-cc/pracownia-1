@@ -1,0 +1,6 @@
+foo(x:int) {
+  foo(3,)
+}
+
+//@PRACOWNIA
+//@should_not_parse
